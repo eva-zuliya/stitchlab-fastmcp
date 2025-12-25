@@ -1,0 +1,9 @@
+[project]
+name = "stitchlab-fastmcp"
+version = "0.1.0"
+
+requires-python = ">=3.8"
+
+dependencies = [
+    "mcp>=1.0.0",
+]
