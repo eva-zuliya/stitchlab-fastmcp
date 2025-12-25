@@ -1,5 +1,5 @@
-# Import the mcp instance from app.py
-from app import mcp
+# Import the mcp instance from mcp_instance.py
+from instance import mcp
 
 # Define a simple tool (non-streaming)
 @mcp.tool()
